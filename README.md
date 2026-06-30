@@ -5,20 +5,20 @@ Data is stored in JSON format and can be exported to CSV for use in Excel or Goo
 
 ## Features:
 
-Create, update, and delete monthly budget records
-View all saved records sorted by month
-Calculate savings automatically
-Display income, expense, and savings statistics
-View monthly spending trends
-Export data to CSV
-Persistent JSON storage
+- Create, update, and delete monthly budget records
+- View all saved records sorted by month
+- Calculate savings automatically
+- Display income, expense, and savings statistics
+- View monthly spending trends
+- Export data to CSV
+- Persistent JSON storage
 
 ## Built with
 
-Python
-JSON
-CSV
-statistics Python Library
+- Python
+- JSON
+- CSV
+- statistics Python Library
 
 ## Main menu:
 
